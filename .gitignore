@@ -30,8 +30,8 @@ _opam/
 
 # ocamllex, ocamlyacc
 *.mli
-lexer.ml  # a generated output by parser ocamllex
-parser.ml # a generated output by parser ocamlyacc
+lexer.ml 
+parser.ml
 
 # Generated file
 imp 
