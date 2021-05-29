@@ -27,3 +27,12 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# ocamllex, ocamlyacc
+*.mli
+lexer.ml  # a generated output by parser ocamllex
+parser.ml # a generated output by parser ocamlyacc
+
+# Generated file
+imp 
+
